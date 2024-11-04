@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-⚡ I’m have successfully completed HacktoberFest 2024
+⚡ I have successfully completed HacktoberFest 2024
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
